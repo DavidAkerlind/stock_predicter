@@ -1,1 +1,1 @@
-# bitcoin-5min-predict-AI
+# stock_predicter
